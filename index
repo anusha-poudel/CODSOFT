@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="uft-8">
+<title>My Portfolio</title>
+<link rel="stylesheet" href="style.css" >
+</head>
+<header>
+  <h1>Anusha Poudel</h1>
+  <p>BIT student</p>
+</header>
+<section id="about">
+  <h2>About Me</h2>
+  <img src="profile.jpg" alt="Profile Picture" width="100">
+  <p>I am currently pursuing a Bachelor's in Information Technology (BIT) at Padmakanya Multiple Campus. I have foundational knowledge in C, C++, and basics of HTML, CSS, JavaScript, and web development . I am passionate about building projects and enhancing my programming skills.</p>
+</section>
+<section id="skills">
+  <h2>Skills</h2>
+  <ul>
+     <li>C</li>
+     <li>C++</li>
+     <li>Basics of HTML, CSS and JavaScript</li>
+  </ul>
+</section>
+<section id="projects">
+   <h2>Projects</h2>
+   <div>
+      <h3>Project 1</h3>
+      <p>Banking System (C++): A simple banking application that allows users to deposit, withdraw, and check account balances. </p>
+      <a href="https://github.com/anusha-poudel/Banking-System"</a>
+    </div>
+    <div>
+      <h3>Project 2</h3>
+      <p>Calculator Program (C): A simple calculator that implements basic arithmetic operations. </p>
+      <a href="https://github.com/anusha-poudel/Calculator"</a>
+    </div>
+</section>
+<section id="resume">
+  <h2>Resume</h2>
+  <a href="Resume.pdf"
+  download>Download my Resume</a>
+</section>
+<section id="contact">
+  <h2>Contact</h2>
+  <p>Email:anushapoudel2828@gmail.com</p>
+  <p>Phone:9864832751</p>
+</section>
+<footer>
+  <p>&copy; 2024 Anusha Poudel. </p>
+  </footer>
+</body>
+</html>
